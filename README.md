@@ -4,6 +4,8 @@ https://github.com/hyprland-community/awesome-hyprland
 
 https://github.com/hyprwm/hyprland-plugins
 
+https://dotfyle.com/neovim/plugins/trending
+
 ```bash
 pacman -S hyprland dunst pipewire wireplumber xdg-desktop-portal-hyprland polkit-kde-agent qt5-wayland qt6-wayland waybar rofi-wayland nwg-look brightnessctl mako uwsm hyprpaper hyprpicker hypridle hyprlock hyprcursor hyprsunset rofi-wayland flameshot wf-recorder obs-studio cliphist sddm neovim    
     
